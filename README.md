@@ -2,18 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levonmidoyan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=levonmidoyan&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levonmidoyan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="300" src="https://scontent.fevn7-1.fna.fbcdn.net/v/t1.6435-9/119399302_732392410674692_745529747058459572_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=ZCeMq1bQhi4AX8VeYiV&_nc_ht=scontent.fevn7-1.fna&oh=00_AfBkfniXzQbKR8hsYm9tDvFW8SefF0GoZcWQUvkJub5hUA&oe=65BF8A23"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@LevonMidoyan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -34,6 +22,18 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=levonmidoyan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=levonmidoyan&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levonmidoyan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="300" src="https://scontent.fevn7-1.fna.fbcdn.net/v/t1.6435-9/119399302_732392410674692_745529747058459572_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=ZCeMq1bQhi4AX8VeYiV&_nc_ht=scontent.fevn7-1.fna&oh=00_AfBkfniXzQbKR8hsYm9tDvFW8SefF0GoZcWQUvkJub5hUA&oe=65BF8A23"  />
 
 ###
 
@@ -132,15 +132,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/levonmidoyan/levonmidoyan/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31ynja3fgaqj2wag4ofbysdciz7e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ynja3fgaqj2wag4ofbysdciz7e&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
